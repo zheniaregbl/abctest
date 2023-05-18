@@ -8,5 +8,8 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
 
         val text = "123"
+        val text2 = "12333"
+        val text3 = "333"
+        val text4 = "12333"
     }
 }
